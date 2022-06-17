@@ -1,3 +1,7 @@
+Gender recognition and age prediction based on face image. 
+
+Dataset: 26k face images. 
+
 Used tech: 
 Tensorflow-Keras, Pandas, OpenCV
 
